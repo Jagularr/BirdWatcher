@@ -37,7 +37,7 @@ lower than ~.25 will likely lead to a lot of mis-identifications.
 }
 ```
 
-### TODO
+### TODO:
 - Multiple camera support.
 - Configurable camera interval, as it is hardcoded at 30 seconds. Blink's API might rate-limit faster requests so
 it might not be feasible to be any faster.
