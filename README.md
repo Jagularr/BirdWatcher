@@ -1,6 +1,6 @@
 # Bird Watcher
 This program uses Blink security cameras to take pictures every 30 seconds and identify any birds in the frame.
-Bird Watcher uses Google's pre-trained `aiy/vision/classifier/birds_V1` model.
+Bird Watcher uses Google's pre-trained `aiy/vision/classifier/birds_V1` model. Imports sighting data to InfluxDB, if enabled.
 
 ### Usage tips:
 - Set your camera as close as possible to the area where birds are expected (likely a feeder).
