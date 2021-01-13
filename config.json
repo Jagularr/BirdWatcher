@@ -1,0 +1,13 @@
+{
+  "location_name": "David's Backyard",
+  "species_to_ignore": ["Ring-Necked Pheasant"],
+  "confidence_threshold": 0.001,
+  "influx_db": {
+    "enabled": true,
+    "url": "http://192.168.1.132:8086",
+    "token": "vJij1m8WB0uLLI7DfYxcv5s4byQkC13k0gOu5f0HRe097LWdB5C50vJNWvui4aZo9_Nk-J_q_FS3eeU1Q2hsog==",
+    "org": "Bird Enthusiasts",
+    "bucket": "Birder"
+  },
+  "blink_camera_name": "Bird Photog"
+}
